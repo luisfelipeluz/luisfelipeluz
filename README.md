@@ -14,8 +14,8 @@
 │   stack       →  Java · Spring Boot · Angular · MySQL          │
 │   learning    →  Python · AI Agents · Product                  │
 │   interests   →  Artificial Intelligence · Product Thinking    │
-│   location    →  Teresina, PI 🌵                               │
-│   off-screen  →  Cooking 🍳                                    │
+│   location    →  Teresina, PI🌵                                │
+│   off-screen  →  Cooking                                       │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
