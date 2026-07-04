@@ -55,7 +55,7 @@
 | **Scheduling API** | Java · Spring Boot · MySQL | RESTful API for appointment and scheduling management |
 
 <br/>
-
+<!-- 
 ## `~/stats`
 
 <div align="center">
@@ -70,7 +70,7 @@
 </div>
 
 <br/>
-
+-->
 ---
 
 <div align="center">
