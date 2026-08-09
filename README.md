@@ -46,13 +46,14 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
-
+<!--
 ## `~/projects`
 
 | Project | Stack | About |
 |---------|-------|-------|
 | **Job Vacancy Bot** | Python · AI Agents | Bot that uses AI agents to find and filter job listings |
 | **Scheduling API** | Java · Spring Boot · MySQL | RESTful API for appointment and scheduling management |
+-->
 
 <br/>
 <!-- 
