@@ -14,7 +14,7 @@
 │   stack          →  Java · Spring Boot · Angular · MySQL · PostgreSQL   │
 │   learning       →  Python · AI Agents · Product                        │
 │   interests      →  Artificial Intelligence · Product Thinking          │
-│   location       →  Teresina, PI🌵                                      │
+│   location       →  Teresina - PI                                       │
 │   off-screen     →  Cooking                                             |
 |   technical blog →  https://luisfelipeluz.github.io/luis-felipe-luz/    │
 │                                                                         │
